@@ -1,0 +1,15 @@
+C:\git\SEMINAR_01\zadacha_08\bin\Debug\net6.0\zadacha_08.exe
+C:\git\SEMINAR_01\zadacha_08\bin\Debug\net6.0\zadacha_08.deps.json
+C:\git\SEMINAR_01\zadacha_08\bin\Debug\net6.0\zadacha_08.runtimeconfig.json
+C:\git\SEMINAR_01\zadacha_08\bin\Debug\net6.0\zadacha_08.dll
+C:\git\SEMINAR_01\zadacha_08\bin\Debug\net6.0\zadacha_08.pdb
+C:\git\SEMINAR_01\zadacha_08\obj\Debug\net6.0\zadacha_08.csproj.AssemblyReference.cache
+C:\git\SEMINAR_01\zadacha_08\obj\Debug\net6.0\zadacha_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SEMINAR_01\zadacha_08\obj\Debug\net6.0\zadacha_08.AssemblyInfoInputs.cache
+C:\git\SEMINAR_01\zadacha_08\obj\Debug\net6.0\zadacha_08.AssemblyInfo.cs
+C:\git\SEMINAR_01\zadacha_08\obj\Debug\net6.0\zadacha_08.csproj.CoreCompileInputs.cache
+C:\git\SEMINAR_01\zadacha_08\obj\Debug\net6.0\zadacha_08.dll
+C:\git\SEMINAR_01\zadacha_08\obj\Debug\net6.0\refint\zadacha_08.dll
+C:\git\SEMINAR_01\zadacha_08\obj\Debug\net6.0\zadacha_08.pdb
+C:\git\SEMINAR_01\zadacha_08\obj\Debug\net6.0\zadacha_08.genruntimeconfig.cache
+C:\git\SEMINAR_01\zadacha_08\obj\Debug\net6.0\ref\zadacha_08.dll
